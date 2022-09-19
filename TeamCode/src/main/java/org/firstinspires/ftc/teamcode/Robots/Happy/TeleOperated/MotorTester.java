@@ -18,7 +18,7 @@ public class MotorTester extends EctoOpMode {
 
     Manipulator manipulator;
     Intake intake;
-//commmenting to commit
+
     // Controllers
     public static GamepadEx driverGamepad;
     public static GamepadEx manipulatorGamepad;
